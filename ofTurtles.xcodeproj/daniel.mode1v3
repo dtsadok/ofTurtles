@@ -327,17 +327,16 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>65238BBB13650A15008F5F77</string>
+										<string>65238DAE136542CD008F5F77</string>
 										<key>history</key>
 										<array>
 											<string>65238AD41364CD6B008F5F77</string>
 											<string>65238AD51364CD6B008F5F77</string>
 											<string>65238B221364CFD5008F5F77</string>
-											<string>65238B5E1364FCCD008F5F77</string>
-											<string>65238B5F1364FCCD008F5F77</string>
-											<string>65238B601364FCCD008F5F77</string>
-											<string>65238BB8136509EC008F5F77</string>
-											<string>65238BB9136509EC008F5F77</string>
+											<string>65238BD31365181B008F5F77</string>
+											<string>65238C8F1365234A008F5F77</string>
+											<string>65238DAA1365423E008F5F77</string>
+											<string>65238DAB1365423E008F5F77</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -566,7 +565,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>testApp.h</string>
+								<string>testApp.cpp</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
